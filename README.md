@@ -1,4 +1,6 @@
-# aml-project3
+# AML Project III
+This project, completed by Luke Gegick, Dylan Miller, and Jackson Dockerty, uses different machine learning
+methods to predict the type of eclipse given its features
 
 # Features (Highlighted features are included)
 Catalog Number (DROP) <br>
