@@ -53,4 +53,6 @@ Cluster 6 (DROP) <br>
 # Predict (independant variable)
 Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
 
+# Key
+
 
