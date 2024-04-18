@@ -54,5 +54,21 @@ Cluster 6 (DROP) <br>
 Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
 
 # Key
-
-
+- Eclipse type
+    - T = 0
+    - Tm = 1
+    - Ts = 2
+    - T+ = 3
+    - T- = 4
+    - A = 5
+    - As = 6
+    - Am = 7
+    - A+ = 8
+    - A- = 9
+    - P = 10
+    - Pb = 11
+    - Pe = 12
+    - H = 13
+    - Hm = 14
+    - H2 = 15
+    - H3 = 16
