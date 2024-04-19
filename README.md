@@ -65,29 +65,31 @@ Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
         - (Partial Phase of a Total Solar Eclipse (post-total) - partial phases of a total solar eclipse after totality)
     - T- = 4 
         - (Partial Phase of a Total Solar Eclipse (pre-total) - partial phases of a total solar eclipse before totality)
-    - A = 5 
+    - Tn = 5
+    - A = 6 
         - (Annular Solar Eclipse - Moon passes in front of the Sun but does not completely cover it)
-    - As = 6 
+    - As = 7 
         - (Annular Solar Eclipse (third contact) - the end of annularity)
-    - Am = 7 
+    - Am = 8 
         - (Middle of an Annular Solar Eclipse - the midpoint of an annular solar eclipse)
-    - A+ = 8 
+    - A+ = 9 
         - (Partial Phase of an Annular Solar Eclipse (post-annular) - partial phases of an annular solar eclipse after the annular phase)
-    - A- = 9 
+    - A- = 10 
         - (Partial Phase of an Annular Solar Eclipse (pre-annular) - partial phases of an annular solar eclipse before the annular phase)
-    - P = 10
+    - An = 11 
+    - P = 12
         - (Partial Solar Eclipse)
-    - Pb = 11
+    - Pb = 13
         - (Partial Solar Eclipse (beginning))
-    - Pe = 12
+    - Pe = 14
         -  (Partial Solar Eclipse (end))
-    - H = 13
+    - H = 15
         - (Hybrid Solar Eclipse)
-    - Hm = 14
+    - Hm = 16
         - (Middle of a Hybrid Solar Eclipse)
-    - H2 = 15
+    - H2 = 17
         - (Hybrid Solar Eclipse (second contact))
-    - H3 = 16
+    - H3 = 18
         - (H3: Hybrid Solar Eclipse (third contact))
 
 # Implementation Notes
