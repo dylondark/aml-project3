@@ -66,6 +66,7 @@ Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
     - T- = 4 
         - (Partial Phase of a Total Solar Eclipse (pre-total) - partial phases of a total solar eclipse before totality)
     - Tn = 5
+        - Terminating Node" refers to the point during an eclipse cycle when the moon's shadow first touches the Earth
     - A = 6 
         - (Annular Solar Eclipse - Moon passes in front of the Sun but does not completely cover it)
     - As = 7 
@@ -77,6 +78,7 @@ Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
     - A- = 10 
         - (Partial Phase of an Annular Solar Eclipse (pre-annular) - partial phases of an annular solar eclipse before the annular phase)
     - An = 11 
+        - "Ascending Node" refers to the point where the moon's path (orbit) intersects with the ecliptic plane 
     - P = 12
         - (Partial Solar Eclipse)
     - Pb = 13
