@@ -4,7 +4,7 @@ methods to predict the type of eclipse given its features
 
 # Features (Highlighted features are included)
 <mark> Delta T(s) </mark>- The discrepancy in seconds between Terrestrial Time (TT) and Universal Time (UT) <br>
-<mark> Lunantion Number </mark>- An enumeration system for identifying lunar months <br>
+<mark> Lunation Number </mark>- An enumeration system for identifying lunar months <br>
 <mark> Saros Number </mark>- Identifies the eclipse cycle, a period of approximately 18 years <br>
 <mark> Gamma </mark>- Measures how centrally the moon's shadow passes across Earth <br>
 <mark> Eclipse Magnitude </mark>- Fraction of the Sun's diameter obscured by the Moon at the maximum point of the eclipse <br>
@@ -32,10 +32,10 @@ methods to predict the type of eclipse given its features
 <mark> Eclipse Interval </mark> -  the time period between consecutive occurrences of a specific type of eclipse <br>
 Catalog Number (DROP) <br>
 Calender Date (DROP) <br>
- Eclipse Time (DROP) <br>
+Eclipse Time (DROP) <br>
 Latitude (DROP) <br>
 Longitude (DROP) <br>
- Central Duration (DROP) <br>
+Central Duration (DROP) <br>
 Date Time (DROP) <br>
 Visibility (DROP) <br>
 Geographical Hemisphere (DROP) <br>
