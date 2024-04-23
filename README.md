@@ -95,5 +95,6 @@ Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
         - (H3: Hybrid Solar Eclipse (third contact))
 
 # Implementation Notes
-- Drop categories who do not have a value in Centralized Duration Seconds to test how it affects accuracy versus imputing
-    - The normalized data fields and centralized duration fields all have the same id for unfilled data so do not drop for each, only drop with respect to one data column to save performance
+- Not all of the models can equally predict this dataset, linear regression as an example gets around 20% accuracy, while KNN and SVM can reach over 80%
+    - The evaluator is used to show the testing accuracy when compared to both the mapped answers and unmapped answers
+- There is both a mapped and unmapped version, as many of the Eclipse Type values describe a general type. For example Tm and T+ both describe a total eclipse. In the mapped version, we leave only T, A, P, and H.
