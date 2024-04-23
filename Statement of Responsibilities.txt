@@ -4,3 +4,4 @@ In the AML Project 3, the following tasks were completed by the associated team 
     Splitting and Organizing of the Spreadsheets - Dylan Miller
     Implementing the Spreadsheets with the different models - Luke Gegick / Dylan Miller / Jackson Dockerty
     Creating the presentation - Luke Gegick / Jackson Dockerty / Dylan Miller
+    Creating the ReadMe for understanding the different features - Dylan Miller / Luke Gegick
