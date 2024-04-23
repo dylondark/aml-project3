@@ -1,6 +1,6 @@
 Statement of Responsibilities:
 
-In the AML Project 3, the following tasks were completed by the associated team member
+In the AML Project 3, the following tasks were completed by the associated team member/members
     Splitting and Organizing of the Spreadsheets - Dylan Miller
     Implementing the Spreadsheets with the different models - Luke Gegick / Dylan Miller / Jackson Dockerty
     Creating the presentation - Luke Gegick / Jackson Dockerty / Dylan Miller
