@@ -98,3 +98,6 @@ Eclipse Type - Type of solar eclipse (Total, Annular, Hybrid, or Partial)
 - Not all of the models can equally predict this dataset, linear regression as an example gets around 20% accuracy, while KNN and SVM can reach over 80%
     - The evaluator is used to show the testing accuracy when compared to both the mapped answers and unmapped answers
 - There is both a mapped and unmapped version, as many of the Eclipse Type values describe a general type. For example Tm and T+ both describe a total eclipse. In the mapped version, we leave only T, A, P, and H.
+
+# Results
+- Among the many tests, it has become clear that there are not enough specific data points to best predict all 19 eclipse types. Due to this information, We have decided to create a mapped version, which allows for very accurate, and fast predictions. The best models for unmapped data (all 19 variables tested) seemed to be Logistic Regression (50% Accuracy) and SVM (52% Accuracy), while the best models for mapped data (4 generalized variables tested) was KNN (85% Accuracy) and SVM (70% Accuracy). The worst model tested was Linear Regression, which has accuracies as low as 20%. It is clear that when predicting a complex variable with many options for data and limited training data, the best models are Logistic Regression and SVM.
